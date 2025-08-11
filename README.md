@@ -1,6 +1,7 @@
 # bandishen.com
 a repo for placing bandishen and their respective ragas
 
+```
 Folder structure
 |
 |
@@ -15,4 +16,4 @@ Folder structure
     |- [Bandishen of that respective Raga]
 |
 |
-|
+```
