@@ -104,6 +104,7 @@ Here, in traditional writing, a **dot is put right under the swar**, but because
     - प-
     - ध-
     - नी-
+
 Any subsequent lower octaves can have more '-' sign in front.
 Like:
     - रे in ati-mandra saptak: रे--
@@ -116,6 +117,7 @@ Here, in traditional writing, a **dot is put right above the swar**, but again a
     - प+
     - ध+
     - नी+
+
 Similarly as in Mandra saptak, any subsequent lower octaves can have more '+' sign in front.
 Like:
     - रे in ati-taar saptak: रे++
