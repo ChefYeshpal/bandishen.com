@@ -9,7 +9,7 @@ for SUBFOLDER in "$PARENT_FOLDER"/*/ ; do
   SUBFOLDER_NAME=$(basename "$SUBFOLDER")
   
   # Define the markdown file path
-  FILE_PATH="$SUBFOLDER/about_${SUBFOLDER_NAME}.md"
+  FILE_PATH="$SUBFOLDER/${SUBFOLDER_NAME}_About.md"
   
   # Create the markdown file with optional content
   echo "# About $SUBFOLDER_NAME" > "$FILE_PATH"
