@@ -86,38 +86,38 @@ Some points you can use to remember them, because essentially you only need to r
 - The frequencies correspond to the specific pitches of each swar in different octaves, allowing music to cover a wide pitch range.
 
 # Notations in different saptak's
-- Madhya Saptak (most commonly used):
-Here, no alteration is made to the swars and they are written as they normally are.
-    - सा
-    - रे
-    - ग
-    - म
-    - प
-    - ध
-    - नी
-- Mandra Saptak: 
-Here, in traditional writing, a **dot is put right under the swar**, but because there isn't a framework that can do that in markdown format we will be using the '-' or negative sign.
-    - सा-
-    - रे-
-    - ग-
-    - म-
-    - प-
-    - ध-
-    - नी-
+    - Madhya Saptak (most commonly used):
+    Here, no alteration is made to the swars and they are written as they normally are.
+        - सा
+        - रे
+        - ग
+        - म
+        - प
+        - ध
+        - नी
+    - Mandra Saptak: 
+    Here, in traditional writing, a **dot is put right under the swar**, but because there isn't a framework that can do that in markdown format we will be using the '-' or negative sign.
+        - सा-
+        - रे-
+        - ग-
+        - म-
+        - प-
+        - ध-
+        - नी-
 
-Any subsequent lower octaves can have more '-' sign in front.
-Like:
-    - रे in ati-mandra saptak: रे--
-- Taar Saptak:
-Here, in traditional writing, a **dot is put right above the swar**, but again as there isn't a framework that can do that in markdown format, we'll be using the '+' or positive sign.
-    - सा+
-    - रे+
-    - ग+
-    - म+
-    - प+
-    - ध+
-    - नी+
+    Any subsequent lower octaves can have more '-' sign in front.
+    Like:
+        - रे in ati-mandra saptak: रे--
+    - Taar Saptak:
+    Here, in traditional writing, a **dot is put right above the swar**, but again as there isn't a framework that can do that in markdown format, we'll be using the '+' or positive sign.
+        - सा+
+        - रे+
+        - ग+
+        - म+
+        - प+
+        - ध+
+        - नी+
 
-Similarly as in Mandra saptak, any subsequent lower octaves can have more '+' sign in front.
-Like:
-    - रे in ati-taar saptak: रे++
+    Similarly as in Mandra saptak, any subsequent lower octaves can have more '+' sign in front.
+    Like:
+        - रे in ati-taar saptak: रे++
