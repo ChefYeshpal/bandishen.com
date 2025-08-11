@@ -5,7 +5,6 @@ description: ""
 ---
 
 # Raga - Bageshree
----
 
 Thaat - Kaafi  
 Jati - Shadav-Shadav  
