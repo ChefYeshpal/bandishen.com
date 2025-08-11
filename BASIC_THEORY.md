@@ -10,7 +10,7 @@ In music, Western music has different notes and Indian music has different notes
 ## Western Music Notes vs Indian Music Notes
 
 - Western music uses the notation: **Do, Re, Mi, Fa, So, La, Ti**
-- Indian classical music uses the notation: ** सा, रे, ग, म, प, ध, नी**
+- Indian classical music uses the notation: **सा, रे, ग, म, प, ध, नी**
 
 These correspond to each other in the musical scale as:
 
@@ -121,3 +121,12 @@ Some points you can use to remember them, because essentially you only need to r
     Similarly as in Mandra saptak, any subsequent lower octaves can have more '+' sign in front.
     Like:
         - रे in ati-taar saptak: रे++
+
+
+
+# Holding the note
+Sometimes, the swar's are held for some period of time to either make the Raga more melodious or because it is by itself an identity of the raga (As such in Bhairav, where the Re_ and Dha_ swars are held on for some time)
+These increase in holding time shall be represented with 's'
+for example if you needed to hold the "re", then you would write it as:
+    - रेsss
+    - re;{sss} (only use ';{}' you are writing it in english, otherwise in Hindi it is to be 'ss')
