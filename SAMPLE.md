@@ -1,12 +1,12 @@
 # Raga -
 
-Thaat - 
-Jati -
-Vadi swar -
-Samvadi swar - 
-Varjit swar -
-Vikrit swar -
-Gayan samay -
+Thaat - \\
+Jati - \\
+Vadi swar - \\
+Samvadi swar - \\
+Varjit swar - \\
+Vikrit swar - \\
+Gayan samay - \\
 
 ---
 
