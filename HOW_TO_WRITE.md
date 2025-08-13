@@ -11,27 +11,5 @@ Sthai
 |---|---|---|---|---|---|---|
 | sa | re | ma || pa | sa | ss |
 
-<table>
-  <tr>
-    <th colspan="3" style="text-align:center;">&nbsp;</th>
-    <th rowspan="1" style="text-align:center;">Sthai</th>
-    <th colspan="3" style="text-align:center;">&nbsp;</th>
-  </tr>
-  <tr>
-    <th>1</th>
-    <th>2</th>
-    <th>3</th>
-    <th>1</th>
-    <th>2</th>
-    <th>3</th>
-  </tr>
-  <tr>
-    <td>sa</td>
-    <td>re</td>
-    <td>re</td>
-    <td>sa</td>
-    <td>sa</td>
-    <td>sa</td>
-    <td>re</td>
-  </tr>
-</table>
+ofc you can incorporate html tables if you want to but I suggest writing it in this given format so that it is easier for the editor to understand what's happening.
+
