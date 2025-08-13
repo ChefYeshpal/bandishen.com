@@ -13,8 +13,8 @@ Sthai
 
 <table>
   <tr>
-    <th rowspan="3" style="text-align:center;">&nbsp;</th>
-    <th colspan="3" style="text-align:center;">Sthai</th>
+    <th colspan="2" style="text-align:center;">&nbsp;</th>
+    <th rowspan="1" style="text-align:center;">Sthai</th>
     <th colspan="3" style="text-align:center;">&nbsp;</th>
   </tr>
   <tr>
