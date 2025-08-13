@@ -10,3 +10,8 @@ As for how to write Sthai and Antra, you can:
 | sthai | 1 | 2 | 3 || 1 | 2 | 3 |
 |:-----:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | sa    | re | re | sa || sa | sa | re |
+
+| sthai |
+| 1 | 2 | 3 || 1 | 2 | 3 |
+|---|---|---|---|---|---|---|
+| sa | re | ma || pa | sa | ss |
