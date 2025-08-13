@@ -19,6 +19,7 @@ Or, you could alternatively write:
 |---|---|---|---|---|---|---|---|
 | sa | re | ma || pa | sa | ss | <- This is the swar |
 | Jaa | n | abhi || na | jao | manao | <- This is the song |
+
 Meaning: My love please dont go 
 
 maybe?
